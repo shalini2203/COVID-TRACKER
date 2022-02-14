@@ -11,7 +11,7 @@ The tracker uses HTML DOM reference.
 # Live-Demo
 
 The live demo can be seen at:-
-https://sanjuli18.github.io/Covid-Tracker/#
+
 
 <img width="735" alt = "screenshot" src="https://user-images.githubusercontent.com/63923966/123946288-aa597300-d9bc-11eb-9515-545d1d3a53c1.jpeg">
 
